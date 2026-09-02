@@ -24,8 +24,7 @@ Check the pinned repositories below for detailed write-ups, screenshots and the 
 | Project | What it is | Stack |
 |---|---|---|
 | **PawMatch** | Mobile app for dog breeding & owner social matching | Flutter, Firebase |
-| **Trivia Clash** *(rename as preferred)* | Mobile trivia game, Trivia Crack-style | Unity, C# |
-| **Job Hunt Tracker** | Personal app to log in-person job search visits | *(stack TBD)* |
+
 
 ---
 

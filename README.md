@@ -25,6 +25,7 @@ Check the pinned repositories below for detailed write-ups, screenshots and the 
 |---|---|---|
 | **PawMatch** | Mobile app for dog breeding & owner social matching | Flutter, Firebase |
 | **RetroGames** | Portal arcade retro con 6 juegos clásicos , monedas, logros, personaje propio, ranking global y cuentas en la nube | 100% HTML/CSS/JS, Firebase |
+| **MasterCinema** | Trivia de cine con Modo Maratón (rachas y comodines), cuentas y ranking global | 100% HTML/CSS/JS, Firebase |
 
 ---
 

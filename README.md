@@ -52,4 +52,4 @@ Check the pinned repositories below for detailed write-ups, screenshots and the 
 
 - 📧 lucas.mar.jua@gmail.com
 - 📍 Manchester, UK — available immediately for full-time roles
-- 💼 Lucas Martinez
+- 💼 [Lucas Martinez](https://www.linkedin.com/in/lucas-martinez-a4b955406/)

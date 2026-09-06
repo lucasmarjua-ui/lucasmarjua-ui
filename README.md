@@ -2,6 +2,12 @@
 <h3 align="center">IT Graduate & Self-Taught Mobile/Web Developer, based in Manchester, UK</h3>
 
 <p align="center">
+  <a href="https://lucasmarjua-ui.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-lucasmarjua--ui.github.io-8A2BE2?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Actively%20looking-Junior%20Developer%20roles-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Manchester%2C%20UK-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Bilingual-English%20%2F%20Spanish-orange?style=flat-square" />

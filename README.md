@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Lucas Martinez 👋</h1>
-<h3 align="center">Junior Software Developer · Web & Mobile · Manchester, UK</h3>
+<p align="center">
+  <img src="assets/banner.svg" alt="Lucas Martinez — Junior Software Developer, Web & Mobile, Manchester UK" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://lucasmarjua-ui.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lucasmarjua--ui.github.io-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -8,6 +9,7 @@
 </p>
 
 <p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=lucasmarjua-ui&style=flat-square&color=8A2BE2&label=Profile+views" />
   <img alt="Open to work" src="https://img.shields.io/badge/Open_to_work-Junior_Developer_roles-2ea44f?style=flat-square" />
   <img alt="Location" src="https://img.shields.io/badge/Based_in-Manchester%2C_UK-blue?style=flat-square" />
   <img alt="Languages" src="https://img.shields.io/badge/Bilingual-English_%2F_Spanish-orange?style=flat-square" />
@@ -16,7 +18,7 @@
 
 ---
 
-## About me
+## 👋 About me
 
 I'm a recent graduate in **Multiplatform Application Development** (DAM — UK equivalent: RQF Level 5 / HND), fully bilingual in English and Spanish.
 
@@ -30,15 +32,51 @@ I learn best by building real, working products end to end rather than following
 
 ## 🚀 Featured projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **[OneDay](https://github.com/lucasmarjua-ui/oneday)** | Data-driven decision game: pick one of six eras, live a single day one decision card at a time, and discover who your choices made you. Fully bilingual (EN/ES), with an automated test suite. | Vanilla JS (ES modules), HTML, CSS, Firebase | [▶ Live demo](https://lucasmarjua-ui.github.io/oneday/) · [Code](https://github.com/lucasmarjua-ui/oneday) |
-| **[MasterCinema](https://github.com/lucasmarjua-ui/mastercinema)** | Film trivia game with five categories, a timed Marathon Mode with streaks and lifelines, unlockable themes, cloud accounts and a global leaderboard. | Vanilla JS, React + TypeScript + Tailwind (hero), Firebase | [▶ Live demo](https://lucasmarjua-ui.github.io/mastercinema/) · [Code](https://github.com/lucasmarjua-ui/mastercinema) |
-| **[RetroGames](https://github.com/lucasmarjua-ui/retrogames)** | 80s-style arcade portal with six classic games built on the Canvas API (Snake, Pac-Man, Tetris, Breakout, Space Invaders, Asteroids), plus coins, achievements, a custom character, a global ranking and cloud saves. | Vanilla JS, Canvas API, HTML, CSS, Firebase | [▶ Live demo](https://lucasmarjua-ui.github.io/retrogames/) · [Code](https://github.com/lucasmarjua-ui/retrogames) |
-| **[PawMatch](https://github.com/lucasmarjua-ui/pawmatch)** | Mobile app that matches dogs and their owners for breeding, playdates and walking buddies. Layered architecture (models → services → providers → screens) ready to swap mock data for Firebase. | Flutter, Dart, Provider, Firebase | [Code](https://github.com/lucasmarjua-ui/pawmatch) |
-| **[Portfolio](https://github.com/lucasmarjua-ui/lucasmarjua-ui.github.io)** | My personal portfolio site, deployed automatically to GitHub Pages. | React, TypeScript, Vite, Tailwind CSS | [▶ Live site](https://lucasmarjua-ui.github.io/) · [Code](https://github.com/lucasmarjua-ui/lucasmarjua-ui.github.io) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://lucasmarjua-ui.github.io/oneday/"><img src="https://raw.githubusercontent.com/lucasmarjua-ui/oneday/main/screenshots/decision-cordoba.png" alt="OneDay decision card in Córdoba, 961" width="100%" /></a>
+      <h3>OneDay</h3>
+      <p>Data-driven decision game: pick one of six eras, live a single day one decision card at a time, and discover who your choices made you. Bilingual (EN/ES) with an automated test suite.</p>
+      <p><sub><b>Vanilla JS (ES modules) · HTML · CSS · Firebase</b></sub></p>
+      <p><a href="https://lucasmarjua-ui.github.io/oneday/"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" /></a> <a href="https://github.com/lucasmarjua-ui/oneday"><img alt="Code" src="https://img.shields.io/badge/Code-24292e?style=flat-square&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://lucasmarjua-ui.github.io/mastercinema/"><img src="https://raw.githubusercontent.com/lucasmarjua-ui/mastercinema/main/screenshots/maraton.png" alt="MasterCinema Marathon Mode question screen" width="100%" /></a>
+      <h3>MasterCinema</h3>
+      <p>Film trivia game with five categories, a timed Marathon Mode with streaks and lifelines, unlockable themes, cloud accounts and a global leaderboard.</p>
+      <p><sub><b>Vanilla JS · React + TypeScript + Tailwind · Firebase</b></sub></p>
+      <p><a href="https://lucasmarjua-ui.github.io/mastercinema/"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" /></a> <a href="https://github.com/lucasmarjua-ui/mastercinema"><img alt="Code" src="https://img.shields.io/badge/Code-24292e?style=flat-square&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://lucasmarjua-ui.github.io/retrogames/"><img src="https://raw.githubusercontent.com/lucasmarjua-ui/retrogames/main/screenshots/portal.png" alt="RetroGames arcade portal with the game grid" width="100%" /></a>
+      <h3>RetroGames</h3>
+      <p>80s-style arcade portal with six classics built on the Canvas API — Snake, Pac-Man, Tetris, Breakout, Space Invaders and Asteroids — plus coins, achievements, a global ranking and cloud saves.</p>
+      <p><sub><b>Vanilla JS · Canvas API · HTML · CSS · Firebase</b></sub></p>
+      <p><a href="https://lucasmarjua-ui.github.io/retrogames/"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-2ea44f?style=flat-square&logo=googlechrome&logoColor=white" /></a> <a href="https://github.com/lucasmarjua-ui/retrogames"><img alt="Code" src="https://img.shields.io/badge/Code-24292e?style=flat-square&logo=github&logoColor=white" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">
+        <a href="https://github.com/lucasmarjua-ui/pawmatch"><img src="https://raw.githubusercontent.com/lucasmarjua-ui/pawmatch/main/screenshots/discover.png" alt="PawMatch discover swipe deck" width="32%" /></a>
+        <a href="https://github.com/lucasmarjua-ui/pawmatch"><img src="https://raw.githubusercontent.com/lucasmarjua-ui/pawmatch/main/screenshots/matches.png" alt="PawMatch matches list" width="32%" /></a>
+        <a href="https://github.com/lucasmarjua-ui/pawmatch"><img src="https://raw.githubusercontent.com/lucasmarjua-ui/pawmatch/main/screenshots/chat.png" alt="PawMatch chat conversation" width="32%" /></a>
+      </p>
+      <h3>PawMatch</h3>
+      <p>Mobile app that matches dogs and their owners for breeding, playdates and walking buddies. Layered architecture (models → services → providers → screens), ready to swap mock data for Firebase.</p>
+      <p><sub><b>Flutter · Dart · Provider · Firebase</b></sub></p>
+      <p><a href="https://github.com/lucasmarjua-ui/pawmatch"><img alt="Code" src="https://img.shields.io/badge/Code-24292e?style=flat-square&logo=github&logoColor=white" /></a></p>
+    </td>
+  </tr>
+</table>
 
-> Each repository has its own README with screenshots, architecture notes and the reasoning behind each build.
+<p align="center">
+  Also: my <a href="https://lucasmarjua-ui.github.io/"><b>portfolio site</b></a> — React, TypeScript, Vite and Tailwind CSS, deployed to GitHub Pages
+  (<a href="https://github.com/lucasmarjua-ui/lucasmarjua-ui.github.io">code</a>).
+  <br />
+  <sub>Each repository has its own README with screenshots, architecture notes and the reasoning behind each build.</sub>
+</p>
 
 ---
 
